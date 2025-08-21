@@ -13,3 +13,4 @@ function Oddeven(number)
   } 
 }
 console.log(Oddeven(44));
+// it mainly do the odd even  function 
